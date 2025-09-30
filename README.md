@@ -22,7 +22,7 @@
 
 # Contact & Availability
 For private audits and collaborations, please contact me via:
-- Telegram: [0xAkira1](https://t.me/OxAkira1)
+- Telegram: [0xAkira](https://t.me/OxAkira1)
 - Discord: 0xakira1
 - X/Twitter: [0xAkira](https://x.com/0x_Akira_)
 
