@@ -22,8 +22,8 @@
 
 # Contact & Availability
 For private audits and collaborations, please contact me via:
-- Telegram
-- Discord
-- X
+- Telegram: [0xAkira1](https://t.me/OxAkira1)
+- Discord: 0xakira1
+- X/Twitter: [0xAkira](https://x.com/0x_Akira_)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/0x_Akira_) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OxAkira1) 
